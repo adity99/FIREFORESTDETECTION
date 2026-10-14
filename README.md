@@ -1,13 +1,4 @@
-# FIREFORESTDETECTION
-
-
-ADITYA MOHAN N-> MOBILENET
-
-
-HARSHITH REDDY T -> INCEPTION
-
-
-KOUSHIK REDDY V -> DENSENET
+# FIRE FOREST DETECTION
 
 README:-
 for mobile net implementation download the mobilenet file with dataset
